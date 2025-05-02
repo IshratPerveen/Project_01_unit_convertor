@@ -63,7 +63,7 @@ def main():
             st.success(f"{value} {from_unit} = {converted_value:.2f} {to_unit}")
 
     st.markdown("---")
-    st.caption("Created by Nuzhat Kiran — Inspired by Google Converter")
+    st.caption("Created by Ishrat Perveen — Inspired by Google Converter")
 
 if __name__ == "__main__":
     main()
